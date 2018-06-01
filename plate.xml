@@ -190,49 +190,49 @@
             </fields>
             <items>
               <item>
-                <image_title><![CDATA[Care Packages]]></image_title>
-                <image><![CDATA[https://20c8f9aa0640fa57fb9f-797f92b87a3f6608f6aa93d5326d7650.ssl.cf2.rackcdn.com/homepage-squares-01-02.01c640ff1d490897fd6b24531d9f4dc9.jpeg]]></image>
-                <image_caption><![CDATA[<p>We offer care packages for each stage of life.</p>]]></image_caption>
+                <image_title><![CDATA[Gentle Whitening]]></image_title>
+                <image><![CDATA[https://9tdpsm.media.zestyio.com/home-square-01.jpeg]]></image>
+                <image_caption><![CDATA[<p>We offer several gentle whitening options.</p>]]></image_caption>
                 <button_text><![CDATA[Learn More]]></button_text>
                 <links_to><![CDATA[503]]></links_to>
                 <sort_order><![CDATA[1]]></sort_order>
               </item>
               <item>
-                <image_title><![CDATA[Day Care]]></image_title>
-                <image><![CDATA[https://20c8f9aa0640fa57fb9f-797f92b87a3f6608f6aa93d5326d7650.ssl.cf2.rackcdn.com/play.01c640ff1d490897fd6b24531d9f4dc9.H1PyWLs9g.jpeg]]></image>
-                <image_caption><![CDATA[<p>We offer day care activities and training classes.</p>]]></image_caption>
+                <image_title><![CDATA[Comprehensive Care]]></image_title>
+                <image><![CDATA[https://9tdpsm.media.zestyio.com/home-square-02.jpeg]]></image>
+                <image_caption><![CDATA[<p>Our diverse team gives you the best care.</p>]]></image_caption>
                     <button_text><![CDATA[Learn More]]></button_text>
                     <links_to><![CDATA[501]]></links_to>
                 <sort_order><![CDATA[2]]></sort_order>
               </item>
               <item>
-                <image_title><![CDATA[Services]]></image_title>
-                <image><![CDATA[https://20c8f9aa0640fa57fb9f-797f92b87a3f6608f6aa93d5326d7650.ssl.cf2.rackcdn.com/homepage-hero-01.01c640ff1d490897fd6b24531d9f4dc9.HJWjfivqg.jpg]]></image>
-                <image_caption><![CDATA[<p>Our services not only care for your pet, but pamper them too.</p>]]></image_caption>
+                <image_title><![CDATA[Care for all ages]]></image_title>
+                <image><![CDATA[https://9tdpsm.media.zestyio.com/home-square-03.jpeg]]></image>
+                <image_caption><![CDATA[<p>We offer cosmetic services for all ages.</p>]]></image_caption>
                     <button_text><![CDATA[Learn More]]></button_text>
                     <links_to><![CDATA[503]]></links_to>
                 <sort_order><![CDATA[3]]></sort_order>
               </item>
               <item>
-                <image_title><![CDATA[Teamwork]]></image_title>
-                <image><![CDATA[https://20c8f9aa0640fa57fb9f-797f92b87a3f6608f6aa93d5326d7650.ssl.cf2.rackcdn.com/teamwork.01c640ff1d490897fd6b24531d9f4dc9.HyTq0Bs5e.jpeg]]></image>
+                <image_title><![CDATA[Cosmetic Professionals]]></image_title>
+                <image><![CDATA[https://9tdpsm.media.zestyio.com/home-square-04.jpeg]]></image>
                 <image_caption><![CDATA[<p>Our team works together to bring you the best quality of care.</p>]]></image_caption>
                 <button_text><![CDATA[Learn More]]></button_text>
                 <links_to><![CDATA[587]]></links_to>
                 <sort_order><![CDATA[4]]></sort_order>
               </item>
               <item>
-                <image_title><![CDATA[Promotions]]></image_title>
-                <image><![CDATA[https://20c8f9aa0640fa57fb9f-797f92b87a3f6608f6aa93d5326d7650.ssl.cf2.rackcdn.com/promotions-square.01c640ff1d490897fd6b24531d9f4dc9.Sy53l8ocg.jpg]]></image>
-                <image_caption><![CDATA[<p>Check out our monthly promotions!</p>]]></image_caption>
+                <image_title><![CDATA[Insurance Accepted]]></image_title>
+                <image><![CDATA[https://9tdpsm.media.zestyio.com/home-square-05.jpeg]]></image>
+                <image_caption><![CDATA[<p>We accept most dental insurance plans.</p>]]></image_caption>
                     <button_text><![CDATA[Learn More]]></button_text>
                     <links_to><![CDATA[507]]></links_to>
                 <sort_order><![CDATA[5]]></sort_order>
               </item>
               <item>
-                <image_title><![CDATA[Resources]]></image_title>
-                <image><![CDATA[https://20c8f9aa0640fa57fb9f-797f92b87a3f6608f6aa93d5326d7650.ssl.cf2.rackcdn.com/homepage-squares-06.B1nDxHm9l.01c640ff1d490897fd6b24531d9f4dc9.jpeg]]></image>
-                <image_caption><![CDATA[<p>Need more help? Check out our resources.</p>]]></image_caption>
+                <image_title><![CDATA[Referral Program]]></image_title>
+                <image><![CDATA[https://9tdpsm.media.zestyio.com/home-square-06a.jpeg]]></image>
+                <image_caption><![CDATA[<p>Ask us about our referral program!</p>]]></image_caption>
                     <button_text><![CDATA[Learn More]]></button_text>
                     <links_to><![CDATA[503]]></links_to>
                 <sort_order><![CDATA[6]]></sort_order>
