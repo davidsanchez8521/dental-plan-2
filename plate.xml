@@ -134,10 +134,10 @@
                 </fields>
                 <items>
                     <item link_title="Special Offers" path_part="">
-                        <title><![CDATA[After-Hours Emergencies?]]></title>
-                        <second_line><![CDATA[Call</br>1-800-555-5555]]></second_line>
+                        <title><![CDATA[We offer Zoom Whitening]]></title>
+                        <second_line><![CDATA[For a brilliant smile]]></second_line>
                         <background_video></background_video>
-                        <background_image><![CDATA[https://20c8f9aa0640fa57fb9f-797f92b87a3f6608f6aa93d5326d7650.ssl.cf2.rackcdn.com/patient-resources-hero.9c27d5af619089da8db7cb29e414f6ac.HyToAwPcl.jpg]]></background_image>
+                        <background_image><![CDATA[https://9tdpsm.media.zestyio.com/home-slide-01.jpeg]]></background_image>
                         <horizontal_alignment_for_mobile><![CDATA[Center]]></horizontal_alignment_for_mobile>
                         <button_text><![CDATA[Contact Us]]></button_text>
                         <links_to><![CDATA[521]]></links_to>
