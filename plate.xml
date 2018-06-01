@@ -16,7 +16,7 @@
         </head>
         <!-- CLIPPINGS -->
         <clippings>
-            <text name="site_name" name_friendly="Site Name" required="1"><![CDATA[Zesty Pet Clinic]]></text>
+            <text name="site_name" name_friendly="Site Name" required="1"><![CDATA[Zesty Cosmetic Dentistry]]></text>
             <images name="logo" name_friendly="Site Logo" limit="1" />
             <text name="logo_height" name_friendly="Logo Height (pixels)"><![CDATA[50]]></text>
             <text name="below_logo_text" name_friendly="Below Logo Text"><![CDATA[]]></text>
@@ -39,11 +39,6 @@
                       <name><![CDATA[Facebook]]></name>
                       <font_awesome_icon><![CDATA[facebook]]></font_awesome_icon>
                       <url><![CDATA[https://www.facebook.com]]></url>
-                  </item>
-                  <item link_title="" path_part="">
-                      <name><![CDATA[Twitter]]></name>
-                      <font_awesome_icon><![CDATA[twitter]]></font_awesome_icon>
-                      <url><![CDATA[https://www.twitter.com]]></url>
                   </item>
                   <item link_title="" path_part="">
                       <name><![CDATA[Instagram]]></name>
@@ -94,14 +89,9 @@
             </fields>
             <items>
               <item>
-                <logo_title><![CDATA[PetDesk]]></logo_title>
-                <footer_logo><![CDATA[https://20c8f9aa0640fa57fb9f-797f92b87a3f6608f6aa93d5326d7650.ssl.cf2.rackcdn.com/PetDesk-logo.png]]></footer_logo>
+                <logo_title><![CDATA[American Academy of Cosmetic Dentistry]]></logo_title>
+                <footer_logo><![CDATA[https://9tdpsm.media.zestyio.com/AACD_logo.png]]></footer_logo>
                 <sort_order><![CDATA[1]]></sort_order>
-              </item>
-              <item>
-                <logo_title><![CDATA[Golden Seal]]></logo_title>
-                <footer_logo><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/gold_seal_logo.png]]></footer_logo>
-                <sort_order><![CDATA[2]]></sort_order>
               </item>
             </items>
           </dataset>
