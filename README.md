@@ -1,2 +1,2 @@
 # Wonderist Blueprint Two
-![Plate cover]()
+![Plate cover](https://github.com/kakoga/dental-plan-2/blob/master/shield-general-2.png)
