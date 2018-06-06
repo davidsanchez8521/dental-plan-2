@@ -696,7 +696,7 @@
                   <sort name="sort_order" name_friendly="Sort Order" required="1" list="1" />
               </fields>
               <items>
-                <item link_title="General Health" path_part="general-health" parent="services">
+                <item link_title="Whitening" path_part="whitening" parent="services">
                   <page_title><![CDATA[General Health]]></page_title>
                   <main_image><![CDATA[https://20c8f9aa0640fa57fb9f-797f92b87a3f6608f6aa93d5326d7650.ssl.cf2.rackcdn.com/resources.9c27d5af619089da8db7cb29e414f6ac.jpeg]]></main_image>
                   <body_text><![CDATA[
@@ -724,8 +724,8 @@
                 </body_text>
                   <sort_order><![CDATA[1]]></sort_order>
                 </item>
-                <item link_title="Vaccines" path_part="vaccines" parent="services">
-                  <page_title><![CDATA[Vaccines]]></page_title>
+                <item link_title="Porcelain Veneers" path_part="porcelain-veneers" parent="services">
+                  <page_title><![CDATA[Porcelain Veneers]]></page_title>
                   <main_image><![CDATA[https://20c8f9aa0640fa57fb9f-797f92b87a3f6608f6aa93d5326d7650.ssl.cf2.rackcdn.com/vaccines-2.9c27d5af619089da8db7cb29e414f6ac.jpeg]]></main_image>
                   <body_text><![CDATA[<p>Pet vaccines fall into two categories: core and  non-core. Core vaccines are vaccines that are recommended for every pet. Non-core vaccines are vaccines that may be recommened based on your pet's lifestyle. For example, if your pet is boarded a lot, or spends a lot of time outdoors, you may want to consider additional vaccines for your pet.</p>
                   <p>Similar to human vaccines, animal vaccines are administered to prevent diseases from occurring in animals. Routinely vaccinating animals is often more affordable than paying for the treatment of sick animals, reduces transmission of microorganisms in the animal population, and reduces animal suffering. Pets are often given vaccines for infectious diseases such as rabies, parvovirus, distemper and hepatitis. Livestock animals, such as turkeys, chickens and cattle, are vaccinated to protect against diseases such as rotavirus, E. coli, pinkeye and brucellosis.</p>
@@ -736,8 +736,8 @@
                   </strong>Veterinary biologics are regulated by the USDA <a href="https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/sa_about_vb/!ut/p/z1/tZLNcoIwFIWfxQVLTBBE6A6tI7aoC3_JhgkxQFpMMEStffpG6qKdqXa6aHb35svNOTkBCGwA4vjIcqyY4LjUdYzcZGoNRtBzrGg0fLRgEPrj57DnwpHvgBVAABGuKlWAGFcFqxMiuKJcJSVLJZZnA9Y4EQeZZIIc6qbCnO1wmRQUl6poOkeqkpSJUuSMXJlUHFRyTC_zK8K2ILZo5rq275m20-uajmsTM7W6tkmIBbvQ3xJv64L1b4KR3oY3VgD1edQg0cwZWP05jGar0IXBcLFcTD2rP_Y7V-DOjFhr6N3W0APrI6MnsORC6mcA8z9aDCF4aiTccalzYy_7PQp0OJc43hTY_Es6-qKOnAwmubaAVWEyngmw-UporXkp0s_PFPDU9jQraUYlle2D1O1Cqap-MKABT6dTOxciL2mbiJ0BfzpSiFqb-U6Carfz7LP5mk2GtoPSs_0e0XXQan0ApK22Iw!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/?urile=wcm%3Apath%3A%2FAPHIS_Content_Library%2FSA_Our_Focus%2FSA_Animal_Health%2FSA_Vet_Biologics%2FSA_About_VB">Center for Veterinary Biologics </a>(CVB) in the USDA’s <a href="http://www.aphis.usda.gov/">Animal and Plant Health Inspection Service </a>(APHIS). AHI members in the veterinary biologics industry continue to work closely with the USDA and invest millions of dollars in the development of effective vaccines to advance the control and eradication of disease in animals.</p>]]></body_text>
                   <sort_order><![CDATA[2]]></sort_order>
                 </item>
-                <item link_title="Care Packages" path_part="care-packages" parent="services">
-                  <page_title><![CDATA[Care Packages]]></page_title>
+                <item link_title="Cosmetic Repair" path_part="cosmetic_repair" parent="services">
+                  <page_title><![CDATA[Cosmetic Repair]]></page_title>
                   <main_image><![CDATA[https://20c8f9aa0640fa57fb9f-797f92b87a3f6608f6aa93d5326d7650.ssl.cf2.rackcdn.com/hammie.9c27d5af619089da8db7cb29e414f6ac.jpeg]]></main_image>
                   <body_text><![CDATA[<p>Our pets, just like humans, will have changing medical and health needs as they age. Our care packages will help you get the most comprehensive care for your pet from baby to senior.
                     Each package covers comprehensive exams, possible vaccines or medication, nutritional consulation, heartworm test and more.</p></br>
@@ -745,38 +745,6 @@
                     <h3>Adult</h3></br><p>Our Adult Package includes:</br><ul><li>Comprehensive exam and complete history</li><li>Blood work (CBC and 8 tests)</li><li>Fecal test to check for common parasites</li></ul></br>
                     <h3>Senior</h3></br><p>Our Senior Package includes:</br><ul><li>Comprehensive exam and history</li><li>Blood work (CBC and 30 tests)</li><li>Fecal test to check for common parasites</li><li>5 x-rays of chest and abdomen</li></ul>]]></body_text>
                   <sort_order><![CDATA[3]]></sort_order>
-                </item>
-                <item link_title="Dental Care" path_part="dental-care" parent="services">
-                  <page_title><![CDATA[Dental Care]]></page_title>
-                  <main_image><![CDATA[https://20c8f9aa0640fa57fb9f-797f92b87a3f6608f6aa93d5326d7650.ssl.cf2.rackcdn.com/dental.9c27d5af619089da8db7cb29e414f6ac.jpeg]]></main_image>
-                  <body_text><![CDATA[<p>Dental care is an integral part of your pets health. Poor dental health can lead to other health problems, including heart problems. To help your pet be the best health possible, we offer professional cleanings, and training and tips to help your pet get used to daily tooth brushing.</p>
-
-                    <p>Veterinary dentistry includes the cleaning, adjustment, filing, extraction, or repair of your pets' teeth and all other aspects of oral health care. These procedures should be performed by a veterinarian or a board-certified veterinary dentist. Subject to state or provincial regulation, veterinary technicians are allowed to perform certain dental procedures under the supervision of a veterinarian. </p>
-
-                    <p>The process begins with an oral exam of your pet’s mouth by a veterinarian. Radiographs (x-rays) may be needed to evaluate the health of the jaw and the tooth roots below the gumline. Because most dental disease occurs below the gumline, where you can’t see it, a thorough dental cleaning and evaluation are performed under anesthesia. Dental cleaning includes scaling (to remove dental plaque and tartar) and polishing, similar to the process used on your own teeth during your regular dental cleanings.</p>
-                    <ul>
-                      <li>bad breath</li>
-                      <li>broken or loose teeth</li>
-                      <li>extra teeth or retained baby teeth</li>
-                      <li>teeth that are discolored or covered in tartar</li>
-                      <li>abnormal chewing, drooling, or dropping food from the mouth</li>
-                      <li>reduced appetite or refusal to eat </li>
-                      <li>pain in or around the mouth</li>
-                      <li>bleeding from the mouth</li>
-                      <li>swelling in the areas surrounding the mouth</li>
-                    </ul>
-                    <p>Periodontal disease is the most common dental condition in dogs and cats – by the time your pet is 3 years old, he or she will very likely have some early evidence of periodontal disease, which will worsen as your pet grows older if effective preventive measures aren’t taken. Early detection and treatment are critical, because advanced periodontal disease can cause severe problems and pain for your pet. Periodontal disease doesn’t just affect your pet’s mouth. Other health problems found in association with periodontal disease include kidney, liver, and heart muscle changes.</p>
-                    <p>It starts with plaque that hardens into tartar. Tartar above the gumline can often easily be seen and removed, but plaque and tartar below the gumline is damaging and sets the stage for infection and damage to the jawbone and the tissues that connect the tooth to the jaw bone. Periodontal disease is graded on a scale of 0 (normal) to 4 (severe).</p>
-                    <p>The treatment of periodontal disease involves a thorough dental cleaning and x-rays may be needed to determine the severity of the disease. Your veterinarian or a board-certified veterinary dentist will make recommendations based on your pet’s overall health and the health of your pet’s teeth, and provide you with options to consider.</p>
-                    <h3>Why does dentistry require anesthesia?</h3>
-                    <p>When you go to the dentist, you know that what’s being done is meant to help you and keep your mouth healthy. Your dentist uses techniques to minimize pain and discomfort and can ask you how you are feeling, so you accept the procedures and do your best to keep still. Your pet does not understand the benefit of dental procedures, and he or she reacts by moving, trying to escape, or even biting.</p>
-                    <p>Anesthesia makes it possible to perform the dental procedures with less stress and pain for your pet. In addition, anesthesia allows for a better cleaning because your pet is not moving around and risking injury from the dental equipment. If radiographs (x-rays) are needed, your pet needs to be very still in order to get good images, and this is unlikely without heavy sedation or anesthesia.</p>
-                    <p>Although anesthesia will always have risks, it’s safer now than ever and continues to improve so that the risks are very low and are far outweighed by the benefits. Most pets can go home the same day of the procedure, although they might seem a little groggy for the rest of the day.</p>
-                    <h3>What can I do at home for my pet’s oral health?</h3>
-                    <p>The American Veterinary Dental College does not recommend dental cleanings without anesthesia because they do not allow cleaning or inspection below the gumline, where most dental disease occurs, and can result in injury to the pet or the person performing the procedure.</p>
-                    <p>Prevention of the most common oral disease in pets consists of frequent removal of the dental plaque and tartar that forms on teeth that are not kept clean. Regularly brushing your pet’s teeth is the single most effective thing you can do to keep their teeth healthy between dental cleanings, and may reduce the frequency or even eliminate the need for periodic dental cleaning by your veterinarian. Daily brushing is best, but it’s not always possible and brushing several times a week can be effective. Most dogs accept brushing, but cats can be a bit more resistant – patience and training are important. </p>]]>
-                </body_text>
-                  <sort_order><![CDATA[4]]></sort_order>
                 </item>
               </items>
           </pageset>
